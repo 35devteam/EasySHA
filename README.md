@@ -22,7 +22,7 @@ EasySha 是一个轻量级的 Windows 工具，自动监控下载文件并计算
 ### 方法1：直接运行（Python）
 ```bash
 # 克隆仓库
-git clone https://github.com/你的用户名/EasySha.git
+git clone https://github.com/35devteam/EasySha.git
 cd EasySha
 
 # 安装依赖
