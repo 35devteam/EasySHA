@@ -1,0 +1,4 @@
+__pycache__/
+# 打包相关
+build/
+dist/
