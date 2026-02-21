@@ -6,7 +6,7 @@
 
 EasySha 是一个轻量级的 Windows 工具，自动监控下载文件并计算 SHA256 校验和，通过 Win11 通知气泡显示，支持剪贴板自动比对。
 
-![EasySha Demo](docs/demo.gif) *（可以放一个演示动图）*
+
 
 ## ✨ 特性
 
